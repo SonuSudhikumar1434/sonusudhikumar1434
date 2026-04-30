@@ -49,9 +49,10 @@ I specialize in SQL-based data transformation, healthcare analytics, dashboard v
 project links:https://github.com/SonuSudhikumar1434?tab=repositories
 
 ## Dashboard Preview
-screenshots/Hospital Performance Dashboard.png
 
-![Dashboard](screenshots/dashboard.png)
+
+![Hospital Dashboard](screenshots/Hospital%20Performance%20Dashboard.png)
+
 
 ## 🏥 Hospital Data Analytics Project
 End-to-end healthcare analytics pipeline using:
