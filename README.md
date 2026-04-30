@@ -51,7 +51,9 @@ project links:https://github.com/SonuSudhikumar1434?tab=repositories
 ## Dashboard Preview
 
 
-![Hospital Dashboard](screenshots/Hospital%20Performance%20Dashboard.png)
+## Dashboard Preview
+
+![Hospital Dashboard](screenshots/hospital_performance_dashboard.png)
 
 
 ## 🏥 Hospital Data Analytics Project
