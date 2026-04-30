@@ -46,7 +46,7 @@ I specialize in SQL-based data transformation, healthcare analytics, dashboard v
 ---
 
 # 📂 Featured Projects
-project links:https://github.com/SonuSudhikumar1434?tab=repositories
+[🏥 Hospital Data Analytics Project](https://github.com/SonuSudhikumar1434/Hospital-Data-Analytics)
 
 
 
