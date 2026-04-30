@@ -96,7 +96,9 @@ End-to-end healthcare analytics pipeline using:
 
 # 📬 Get In Touch
 
-📧 Email: sonusudhikumarjobs@gmail.com
+Email: sonusudhikumarjobs@gmail.com
+
+
 linkedin: https://www.linkedin.com/in/sonu-s-6b3b9421a/
 ---
 
