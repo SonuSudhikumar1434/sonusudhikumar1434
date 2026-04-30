@@ -48,6 +48,10 @@ I specialize in SQL-based data transformation, healthcare analytics, dashboard v
 # 📂 Featured Projects
 project links:https://github.com/SonuSudhikumar1434?tab=repositories
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ## 🏥 Hospital Data Analytics Project
 End-to-end healthcare analytics pipeline using:
 - DuckDB
