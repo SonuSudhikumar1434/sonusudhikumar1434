@@ -2,28 +2,26 @@
 
 ## Turning data into insights through analytics, engineering, and visualization
 
-Hi, I'm **SONU S** — an Electrical & Electronics Engineer and Data Analytics enthusiast passionate about building data-driven solutions and interactive dashboards.
+Hi, I'm **SONU S** — a Data Analytics enthusiast passionate about building data-driven solutions and interactive dashboards.
 
-I specialize in SQL-based data transformation, healthcare analytics, dashboard visualization, and data warehousing using modern analytics workflows.
+I specialize in SQL-based data transformation, dashboard visualization, and data warehousing using modern analytics workflows.
 
 ---
 
 # 🛠️ Core Skills
 
-### 📊 Data Analytics & Engineering
-- SQL
+### 📊 Data Analytics
+- Advanced SQL
 - Python
 - Advanced Excel
 - DuckDB
-- Data Modeling
-- ETL / ELT Workflow
-- Medallion Architecture
+
 
 ### 📈 Visualization & BI
 - Looker Studio
 - Google Sheets
-- KPI Dashboard Development
-- Data Visualization
+- Power BI
+- Tableau
 
 ### ⚙️ Tools & Technologies
 - Git & GitHub
@@ -68,21 +66,12 @@ End-to-end healthcare analytics pipeline using:
 
 ---
 
-## ☀️ Solar Engineering Projects
-
-- 40KW Solar Power Plant Project
-- Solar Site Coordination & Monitoring
-- Electrical Distribution Systems
-- Project Scheduling & Safety Monitoring
-
----
-
 # 🎓 Certifications
 
 
 - Data Analyst Course
   - Advanced Excel
-  - SQL
+  - AdvancedSQL
   - Python
   - Looker Studio
 - NEBOSH International General Certificate (IGC) 
