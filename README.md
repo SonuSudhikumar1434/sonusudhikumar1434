@@ -43,6 +43,14 @@ I specialize in SQL-based data transformation, dashboard visualization, and data
 
 ---
 
+## 📊 Live Dashboards
+
+🔗 **Hospital Performance Dashboard**  
+[Click here to view](https://datastudio.google.com/reporting/dad5bf02-36a5-4f0e-b0c0-a14370159624)
+
+🔗 **Sales Analytics Dashboard**  
+[Click here to view](https://datastudio.google.com/reporting/1b0259be-7181-442a-a9e3-2db625297402)
+
 # 📂 Featured Projects
 
 [🚀 Click here to check out my projects →](https://github.com/SonuSudhikumar1434?tab=repositories)
